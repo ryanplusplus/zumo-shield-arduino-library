@@ -4,6 +4,8 @@
 
 #pragma once
 
+#include <Arduino.h>
+
 /*! \anchor device_addresses
  *
  * \name Device Addresses
